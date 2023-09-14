@@ -1,5 +1,5 @@
 def func(str_):
-    """docstring12"""
+    """docstring1234"""
     return str_.upper()
 
 
