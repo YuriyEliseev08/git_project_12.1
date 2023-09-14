@@ -1,6 +1,8 @@
 def func(str_):
-    """docstring1"""
+    """docstring_changed"""
     return str_.upper()
 
-
+def new_func(str_):
+    """docstring2"""
+    return str_.capitalise()
 
