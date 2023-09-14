@@ -7,3 +7,4 @@ def new_func(str_):
     return str_.capitalize()
 
 
+
